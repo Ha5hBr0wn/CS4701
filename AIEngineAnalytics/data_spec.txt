@@ -11,16 +11,21 @@ Notes:
     - So a total of 10x5x5 = 250 games
     - Each game should use 4 in a row with standard root(2) for c parameter
     
+JSON Representation for a simulated game
+{'winner': winning_time, 'p1': time for p1, 'p2': time for p2, 'moves': [{'simulations': number of sims, 'stats': [{'pts': first stat, 'attempts': second stat}, ...]}, ...]}
+    
+
+
 Experiment 2:
 Folder Name: 8sSimulations
 File name: 8_{dimension}_{game_number}.json
 Notes:
     - No leading 0's
     - Game number from 0-9 (10 total games for each dimension)
-    - Dimension from 4-8 (5 total dimensions)
+    - Dimension from 4-10 (7 total dimensions)
     - So a total of 10x5 = 50 games
     - Each game should use 4 in a row with standard root(2) for c parameter
 
 
-JSON Representation for a simulated game
-{'winner': winning_time, 'p1': time for p1, 'p2': time for p2, 'moves': [{'simulations': number of sims, 'stats': [{'pts': first stat, 'attempts': second stat}, ...]}, ...]}
+JSON Representation for a simulated game (added row/col to representation)
+{'winner': winning_time, 'p1': time for p1, 'p2': time for p2, 'moves': [{'simulations': number of sims, 'stats': [{'pts': first stat, 'attempts': second stat}, ...], row: Int, col: Int}, ...]}
