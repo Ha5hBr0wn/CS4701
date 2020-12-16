@@ -1,4 +1,4 @@
-name := "root"
+name := "TTNEngine"
 
 version := "0.1"
 
