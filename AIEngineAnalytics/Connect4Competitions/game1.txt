@@ -1,0 +1,123 @@
+Game 1:
+Playing against sachinparyani/MiniMax-Connect-4 (https://github.com/sachinparyani/Minimax-Connect-4)
+Minimax of depth 4 vs MCTS thinking time 5s (Minimax plays as 1)
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+ 
+ 
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 2 0 0 1  
+ 
+
+ 
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+ 
+ 
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 2 0 0 1  
+0 0 0 2 0 0 1  
+ 
+
+ 
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 0 0 2 0 0 1  
+ 
+ 
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 0 0 2 0 0 1  
+ 
+
+ 
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 0 0 2 0 0 1  
+ 
+ 
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 0 2 2 0 0 1  
+ 
+
+ 
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 0 2 2 0 1 1  
+ 
+ 
+
+0 0 0 0 0 0 0  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 2 2 2 0 1 1  
+ 
+
+ 
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 2 2 2 0 1 1  
+ 
+ 
+
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 1  
+0 0 0 0 0 0 2  
+0 0 0 0 0 0 1  
+0 0 0 2 0 0 1  
+0 2 2 2 2 1 1  
+ 
+2 wins!
+
+Notes on game: Minimax took significantly longer to make turns (about 20 seconds). The MCTS performed well
+even with only 5 seconds of thinking time. It also noticably utilized a trap moves in advance. This might just 
+have been a bad implementation off the internet
