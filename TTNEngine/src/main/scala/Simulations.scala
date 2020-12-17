@@ -67,7 +67,8 @@ object Simulations {
                        futures: List[Future[Unit]], file_path: String): List[Future[Unit]]= {
         val gameResult = Future{
           val result = computer_vs_computer(state, agent_1, agent_2)
-          write_result(result, file_path = s"${file_path}_${num_game-1}.json")
+          //write_result(result, file_path = s"${file_path}_${num_game-1}.json")
+          write_result(result, file_path = s"${file_path}_${num_game-1+10}.json")
         }
         if (num_game > 1) run_simulation(state, agent_2, agent_1, num_game - 1, gameResult +: futures, file_path)
         else futures

@@ -1,0 +1,966 @@
+{
+  "winner" : 2.0,
+  "p1" : 2.0,
+  "p2" : 4.0,
+  "moves" : [
+    {
+      "simulations" : 8960,
+      "stats" : [
+        {
+          "pts" : 327.5,
+          "attempts" : 516
+        },
+        {
+          "pts" : 259.0,
+          "attempts" : 421
+        },
+        {
+          "pts" : 230.0,
+          "attempts" : 381
+        },
+        {
+          "pts" : 221.5,
+          "attempts" : 369
+        },
+        {
+          "pts" : 186.5,
+          "attempts" : 320
+        },
+        {
+          "pts" : 184.0,
+          "attempts" : 316
+        },
+        {
+          "pts" : 177.5,
+          "attempts" : 307
+        },
+        {
+          "pts" : 163.0,
+          "attempts" : 286
+        },
+        {
+          "pts" : 162.5,
+          "attempts" : 285
+        },
+        {
+          "pts" : 155.0,
+          "attempts" : 275
+        },
+        {
+          "pts" : 151.0,
+          "attempts" : 269
+        },
+        {
+          "pts" : 148.0,
+          "attempts" : 264
+        },
+        {
+          "pts" : 144.5,
+          "attempts" : 259
+        },
+        {
+          "pts" : 144.5,
+          "attempts" : 259
+        },
+        {
+          "pts" : 130.5,
+          "attempts" : 239
+        },
+        {
+          "pts" : 130.0,
+          "attempts" : 238
+        },
+        {
+          "pts" : 130.0,
+          "attempts" : 238
+        },
+        {
+          "pts" : 128.5,
+          "attempts" : 236
+        },
+        {
+          "pts" : 126.0,
+          "attempts" : 232
+        },
+        {
+          "pts" : 122.5,
+          "attempts" : 227
+        },
+        {
+          "pts" : 120.5,
+          "attempts" : 224
+        },
+        {
+          "pts" : 116.5,
+          "attempts" : 219
+        },
+        {
+          "pts" : 117.0,
+          "attempts" : 219
+        },
+        {
+          "pts" : 112.0,
+          "attempts" : 212
+        },
+        {
+          "pts" : 112.0,
+          "attempts" : 210
+        },
+        {
+          "pts" : 108.0,
+          "attempts" : 206
+        },
+        {
+          "pts" : 107.5,
+          "attempts" : 205
+        },
+        {
+          "pts" : 105.0,
+          "attempts" : 201
+        },
+        {
+          "pts" : 100.0,
+          "attempts" : 194
+        },
+        {
+          "pts" : 93.0,
+          "attempts" : 184
+        },
+        {
+          "pts" : 92.0,
+          "attempts" : 182
+        },
+        {
+          "pts" : 81.5,
+          "attempts" : 166
+        },
+        {
+          "pts" : 74.5,
+          "attempts" : 156
+        },
+        {
+          "pts" : 73.5,
+          "attempts" : 154
+        },
+        {
+          "pts" : 68.5,
+          "attempts" : 146
+        },
+        {
+          "pts" : 67.5,
+          "attempts" : 145
+        }
+      ]
+    },
+    {
+      "simulations" : 19820,
+      "stats" : [
+        {
+          "pts" : 505.5,
+          "attempts" : 1102
+        },
+        {
+          "pts" : 468.5,
+          "attempts" : 1032
+        },
+        {
+          "pts" : 457.5,
+          "attempts" : 1011
+        },
+        {
+          "pts" : 383.0,
+          "attempts" : 868
+        },
+        {
+          "pts" : 327.5,
+          "attempts" : 760
+        },
+        {
+          "pts" : 323.0,
+          "attempts" : 751
+        },
+        {
+          "pts" : 321.0,
+          "attempts" : 747
+        },
+        {
+          "pts" : 311.0,
+          "attempts" : 728
+        },
+        {
+          "pts" : 307.5,
+          "attempts" : 721
+        },
+        {
+          "pts" : 291.5,
+          "attempts" : 689
+        },
+        {
+          "pts" : 268.5,
+          "attempts" : 644
+        },
+        {
+          "pts" : 257.0,
+          "attempts" : 621
+        },
+        {
+          "pts" : 256.5,
+          "attempts" : 620
+        },
+        {
+          "pts" : 242.0,
+          "attempts" : 591
+        },
+        {
+          "pts" : 233.5,
+          "attempts" : 574
+        },
+        {
+          "pts" : 213.5,
+          "attempts" : 534
+        },
+        {
+          "pts" : 209.5,
+          "attempts" : 526
+        },
+        {
+          "pts" : 205.0,
+          "attempts" : 517
+        },
+        {
+          "pts" : 200.0,
+          "attempts" : 507
+        },
+        {
+          "pts" : 194.0,
+          "attempts" : 495
+        },
+        {
+          "pts" : 192.0,
+          "attempts" : 491
+        },
+        {
+          "pts" : 189.5,
+          "attempts" : 485
+        },
+        {
+          "pts" : 184.5,
+          "attempts" : 475
+        },
+        {
+          "pts" : 178.5,
+          "attempts" : 463
+        },
+        {
+          "pts" : 159.5,
+          "attempts" : 424
+        },
+        {
+          "pts" : 157.5,
+          "attempts" : 420
+        },
+        {
+          "pts" : 151.0,
+          "attempts" : 406
+        },
+        {
+          "pts" : 147.0,
+          "attempts" : 398
+        },
+        {
+          "pts" : 146.0,
+          "attempts" : 396
+        },
+        {
+          "pts" : 140.0,
+          "attempts" : 384
+        },
+        {
+          "pts" : 124.5,
+          "attempts" : 351
+        },
+        {
+          "pts" : 112.0,
+          "attempts" : 325
+        },
+        {
+          "pts" : 90.0,
+          "attempts" : 277
+        },
+        {
+          "pts" : 78.0,
+          "attempts" : 251
+        },
+        {
+          "pts" : 71.5,
+          "attempts" : 236
+        }
+      ]
+    },
+    {
+      "simulations" : 8839,
+      "stats" : [
+        {
+          "pts" : 550.0,
+          "attempts" : 805
+        },
+        {
+          "pts" : 318.0,
+          "attempts" : 496
+        },
+        {
+          "pts" : 275.0,
+          "attempts" : 437
+        },
+        {
+          "pts" : 263.0,
+          "attempts" : 421
+        },
+        {
+          "pts" : 251.5,
+          "attempts" : 405
+        },
+        {
+          "pts" : 204.5,
+          "attempts" : 340
+        },
+        {
+          "pts" : 188.0,
+          "attempts" : 317
+        },
+        {
+          "pts" : 159.0,
+          "attempts" : 276
+        },
+        {
+          "pts" : 158.0,
+          "attempts" : 275
+        },
+        {
+          "pts" : 152.0,
+          "attempts" : 266
+        },
+        {
+          "pts" : 141.5,
+          "attempts" : 251
+        },
+        {
+          "pts" : 136.5,
+          "attempts" : 244
+        },
+        {
+          "pts" : 134.0,
+          "attempts" : 240
+        },
+        {
+          "pts" : 133.0,
+          "attempts" : 239
+        },
+        {
+          "pts" : 132.0,
+          "attempts" : 238
+        },
+        {
+          "pts" : 131.0,
+          "attempts" : 236
+        },
+        {
+          "pts" : 129.0,
+          "attempts" : 233
+        },
+        {
+          "pts" : 123.5,
+          "attempts" : 225
+        },
+        {
+          "pts" : 121.0,
+          "attempts" : 222
+        },
+        {
+          "pts" : 116.5,
+          "attempts" : 215
+        },
+        {
+          "pts" : 116.0,
+          "attempts" : 214
+        },
+        {
+          "pts" : 111.0,
+          "attempts" : 207
+        },
+        {
+          "pts" : 109.5,
+          "attempts" : 205
+        },
+        {
+          "pts" : 105.0,
+          "attempts" : 198
+        },
+        {
+          "pts" : 99.5,
+          "attempts" : 190
+        },
+        {
+          "pts" : 93.5,
+          "attempts" : 181
+        },
+        {
+          "pts" : 89.5,
+          "attempts" : 176
+        },
+        {
+          "pts" : 90.0,
+          "attempts" : 176
+        },
+        {
+          "pts" : 87.0,
+          "attempts" : 172
+        },
+        {
+          "pts" : 84.5,
+          "attempts" : 168
+        },
+        {
+          "pts" : 84.5,
+          "attempts" : 168
+        },
+        {
+          "pts" : 78.5,
+          "attempts" : 159
+        },
+        {
+          "pts" : 66.0,
+          "attempts" : 140
+        },
+        {
+          "pts" : 43.0,
+          "attempts" : 104
+        }
+      ]
+    },
+    {
+      "simulations" : 20262,
+      "stats" : [
+        {
+          "pts" : 1026.5,
+          "attempts" : 2266
+        },
+        {
+          "pts" : 410.5,
+          "attempts" : 1010
+        },
+        {
+          "pts" : 358.0,
+          "attempts" : 900
+        },
+        {
+          "pts" : 351.0,
+          "attempts" : 885
+        },
+        {
+          "pts" : 307.5,
+          "attempts" : 792
+        },
+        {
+          "pts" : 295.0,
+          "attempts" : 765
+        },
+        {
+          "pts" : 278.0,
+          "attempts" : 729
+        },
+        {
+          "pts" : 271.0,
+          "attempts" : 714
+        },
+        {
+          "pts" : 258.5,
+          "attempts" : 687
+        },
+        {
+          "pts" : 256.0,
+          "attempts" : 681
+        },
+        {
+          "pts" : 234.5,
+          "attempts" : 635
+        },
+        {
+          "pts" : 222.5,
+          "attempts" : 608
+        },
+        {
+          "pts" : 216.0,
+          "attempts" : 594
+        },
+        {
+          "pts" : 198.0,
+          "attempts" : 554
+        },
+        {
+          "pts" : 188.5,
+          "attempts" : 533
+        },
+        {
+          "pts" : 187.5,
+          "attempts" : 531
+        },
+        {
+          "pts" : 187.0,
+          "attempts" : 530
+        },
+        {
+          "pts" : 174.5,
+          "attempts" : 502
+        },
+        {
+          "pts" : 164.5,
+          "attempts" : 480
+        },
+        {
+          "pts" : 163.0,
+          "attempts" : 476
+        },
+        {
+          "pts" : 163.0,
+          "attempts" : 476
+        },
+        {
+          "pts" : 161.5,
+          "attempts" : 473
+        },
+        {
+          "pts" : 152.0,
+          "attempts" : 452
+        },
+        {
+          "pts" : 151.5,
+          "attempts" : 450
+        },
+        {
+          "pts" : 154.0,
+          "attempts" : 449
+        },
+        {
+          "pts" : 148.5,
+          "attempts" : 444
+        },
+        {
+          "pts" : 147.5,
+          "attempts" : 441
+        },
+        {
+          "pts" : 136.5,
+          "attempts" : 416
+        },
+        {
+          "pts" : 135.0,
+          "attempts" : 413
+        },
+        {
+          "pts" : 115.5,
+          "attempts" : 368
+        },
+        {
+          "pts" : 115.0,
+          "attempts" : 367
+        },
+        {
+          "pts" : 109.0,
+          "attempts" : 353
+        },
+        {
+          "pts" : 81.5,
+          "attempts" : 288
+        }
+      ]
+    },
+    {
+      "simulations" : 12819,
+      "stats" : [
+        {
+          "pts" : 1307.5,
+          "attempts" : 1909
+        },
+        {
+          "pts" : 1103.5,
+          "attempts" : 1633
+        },
+        {
+          "pts" : 388.0,
+          "attempts" : 636
+        },
+        {
+          "pts" : 366.0,
+          "attempts" : 604
+        },
+        {
+          "pts" : 243.5,
+          "attempts" : 426
+        },
+        {
+          "pts" : 229.5,
+          "attempts" : 405
+        },
+        {
+          "pts" : 225.0,
+          "attempts" : 398
+        },
+        {
+          "pts" : 219.5,
+          "attempts" : 390
+        },
+        {
+          "pts" : 201.5,
+          "attempts" : 363
+        },
+        {
+          "pts" : 192.5,
+          "attempts" : 350
+        },
+        {
+          "pts" : 180.0,
+          "attempts" : 331
+        },
+        {
+          "pts" : 173.5,
+          "attempts" : 321
+        },
+        {
+          "pts" : 170.5,
+          "attempts" : 317
+        },
+        {
+          "pts" : 170.5,
+          "attempts" : 317
+        },
+        {
+          "pts" : 157.5,
+          "attempts" : 297
+        },
+        {
+          "pts" : 153.5,
+          "attempts" : 291
+        },
+        {
+          "pts" : 151.5,
+          "attempts" : 288
+        },
+        {
+          "pts" : 151.0,
+          "attempts" : 287
+        },
+        {
+          "pts" : 147.0,
+          "attempts" : 281
+        },
+        {
+          "pts" : 147.0,
+          "attempts" : 281
+        },
+        {
+          "pts" : 145.5,
+          "attempts" : 279
+        },
+        {
+          "pts" : 145.0,
+          "attempts" : 278
+        },
+        {
+          "pts" : 140.5,
+          "attempts" : 271
+        },
+        {
+          "pts" : 136.0,
+          "attempts" : 264
+        },
+        {
+          "pts" : 123.5,
+          "attempts" : 245
+        },
+        {
+          "pts" : 120.0,
+          "attempts" : 239
+        },
+        {
+          "pts" : 115.0,
+          "attempts" : 232
+        },
+        {
+          "pts" : 105.0,
+          "attempts" : 216
+        },
+        {
+          "pts" : 92.0,
+          "attempts" : 195
+        },
+        {
+          "pts" : 85.0,
+          "attempts" : 184
+        },
+        {
+          "pts" : 66.0,
+          "attempts" : 153
+        },
+        {
+          "pts" : 56.5,
+          "attempts" : 138
+        }
+      ]
+    },
+    {
+      "simulations" : 46384,
+      "stats" : [
+        {
+          "pts" : 601.0,
+          "attempts" : 2195
+        },
+        {
+          "pts" : 591.5,
+          "attempts" : 2165
+        },
+        {
+          "pts" : 447.0,
+          "attempts" : 1714
+        },
+        {
+          "pts" : 443.0,
+          "attempts" : 1701
+        },
+        {
+          "pts" : 441.5,
+          "attempts" : 1697
+        },
+        {
+          "pts" : 432.5,
+          "attempts" : 1668
+        },
+        {
+          "pts" : 425.5,
+          "attempts" : 1646
+        },
+        {
+          "pts" : 422.5,
+          "attempts" : 1636
+        },
+        {
+          "pts" : 405.5,
+          "attempts" : 1582
+        },
+        {
+          "pts" : 403.0,
+          "attempts" : 1574
+        },
+        {
+          "pts" : 393.5,
+          "attempts" : 1544
+        },
+        {
+          "pts" : 383.5,
+          "attempts" : 1512
+        },
+        {
+          "pts" : 365.0,
+          "attempts" : 1453
+        },
+        {
+          "pts" : 362.0,
+          "attempts" : 1444
+        },
+        {
+          "pts" : 358.5,
+          "attempts" : 1432
+        },
+        {
+          "pts" : 358.5,
+          "attempts" : 1432
+        },
+        {
+          "pts" : 355.5,
+          "attempts" : 1423
+        },
+        {
+          "pts" : 355.5,
+          "attempts" : 1423
+        },
+        {
+          "pts" : 354.5,
+          "attempts" : 1420
+        },
+        {
+          "pts" : 353.0,
+          "attempts" : 1415
+        },
+        {
+          "pts" : 351.0,
+          "attempts" : 1408
+        },
+        {
+          "pts" : 340.0,
+          "attempts" : 1373
+        },
+        {
+          "pts" : 337.5,
+          "attempts" : 1365
+        },
+        {
+          "pts" : 335.5,
+          "attempts" : 1358
+        },
+        {
+          "pts" : 330.0,
+          "attempts" : 1341
+        },
+        {
+          "pts" : 328.5,
+          "attempts" : 1336
+        },
+        {
+          "pts" : 308.5,
+          "attempts" : 1271
+        },
+        {
+          "pts" : 306.5,
+          "attempts" : 1264
+        },
+        {
+          "pts" : 304.0,
+          "attempts" : 1256
+        },
+        {
+          "pts" : 286.5,
+          "attempts" : 1199
+        },
+        {
+          "pts" : 267.5,
+          "attempts" : 1137
+        }
+      ]
+    },
+    {
+      "simulations" : 340928,
+      "stats" : [
+        {
+          "pts" : 337401.0,
+          "attempts" : 337401
+        },
+        {
+          "pts" : 113.5,
+          "attempts" : 180
+        },
+        {
+          "pts" : 113.0,
+          "attempts" : 179
+        },
+        {
+          "pts" : 101.0,
+          "attempts" : 165
+        },
+        {
+          "pts" : 95.5,
+          "attempts" : 158
+        },
+        {
+          "pts" : 89.0,
+          "attempts" : 150
+        },
+        {
+          "pts" : 86.0,
+          "attempts" : 146
+        },
+        {
+          "pts" : 81.0,
+          "attempts" : 140
+        },
+        {
+          "pts" : 81.0,
+          "attempts" : 140
+        },
+        {
+          "pts" : 79.5,
+          "attempts" : 138
+        },
+        {
+          "pts" : 78.0,
+          "attempts" : 136
+        },
+        {
+          "pts" : 72.0,
+          "attempts" : 128
+        },
+        {
+          "pts" : 72.0,
+          "attempts" : 128
+        },
+        {
+          "pts" : 70.5,
+          "attempts" : 127
+        },
+        {
+          "pts" : 64.0,
+          "attempts" : 118
+        },
+        {
+          "pts" : 60.0,
+          "attempts" : 113
+        },
+        {
+          "pts" : 58.5,
+          "attempts" : 111
+        },
+        {
+          "pts" : 57.5,
+          "attempts" : 110
+        },
+        {
+          "pts" : 55.0,
+          "attempts" : 107
+        },
+        {
+          "pts" : 55.5,
+          "attempts" : 107
+        },
+        {
+          "pts" : 54.5,
+          "attempts" : 106
+        },
+        {
+          "pts" : 51.0,
+          "attempts" : 101
+        },
+        {
+          "pts" : 50.0,
+          "attempts" : 100
+        },
+        {
+          "pts" : 49.0,
+          "attempts" : 99
+        },
+        {
+          "pts" : 48.0,
+          "attempts" : 97
+        },
+        {
+          "pts" : 47.0,
+          "attempts" : 96
+        },
+        {
+          "pts" : 42.5,
+          "attempts" : 90
+        },
+        {
+          "pts" : 40.5,
+          "attempts" : 87
+        },
+        {
+          "pts" : 40.5,
+          "attempts" : 87
+        },
+        {
+          "pts" : 37.5,
+          "attempts" : 83
+        }
+      ]
+    }
+  ]
+}
