@@ -289,5 +289,5 @@ MCTS thinking time 5s vs MiniMax of depth 8 (MCTS plays as 1)
  
 1 wins!
 
-Notes on game: Again the MCTS wins, this time against the max depth MiniMax (depth 8). The MiniMax too significantly longer times (about 10s) compared to the MCTS(5s). The number of simulations the MCTS ran before each of its turns is also shown in this file. 
+Notes on game: Again the MCTS wins, this time against the max depth MiniMax (depth 8). The MiniMax took significantly longer times (about 10s) compared to the MCTS(5s). The number of simulations the MCTS ran before each of its turns is also shown in this file. 
 As one can see it goes up as the game reaches the end. 

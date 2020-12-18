@@ -4,11 +4,11 @@ Folder Name: 2xSimulations
 File name: {longer_time}_{dimension}_{game_number}.json
 Notes:
     - No leading 0's
-    - Game number from 0-9 (10 total games for each longer_time/dimension combo)
+    - Game number from 0-19 (10 total games for each longer_time/dimension combo)
     - Dimension from 4-8 (5 total dimensions for each longer_time)
     - Longer times = [1, 2, 4, 8, 16] (5 total)
     - Corresponding shorter times are [0.5, 1, 2, 4, 8] (half each time hence the name 2xSimulations)
-    - So a total of 10x5x5 = 250 games
+    - So a total of 10x5x10 = 500 games
     - Each game should use 4 in a row with standard root(2) for c parameter
     
 

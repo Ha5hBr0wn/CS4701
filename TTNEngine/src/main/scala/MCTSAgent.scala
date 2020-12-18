@@ -1,5 +1,4 @@
-/** A description of a MCTS Agent. Implementations may differ in heuristics and other optimization
- * details */
+/** A description of a MCTS Agent. Implementations may differ in optimization details */
 trait MCTSAgent {
   /** Runs a MCTS on a given game_state to produce the "best" neighboring game state. Requires
    * the game_state to have neighbors (the game is not over). */
